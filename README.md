@@ -4,6 +4,9 @@ This repository contains a frontend prototype of the Veridia Hiring Platform, bu
 The prototype demonstrates clean and responsive UI designs for Login, Register, and Dashboard pages.
 
 
+
+
+
 ✨ Features
 
 📱 Responsive UI – Works across devices.
@@ -18,6 +21,9 @@ The prototype demonstrates clean and responsive UI designs for Login, Register, 
 
 
 
+
+
+
 🛠️ Tech Stack
 
 React – Component-based UI
@@ -25,6 +31,10 @@ React – Component-based UI
 Vite – Lightning-fast bundler
 
 Tailwind CSS – Utility-first styling
+
+
+
+
 
 
 
@@ -42,6 +52,9 @@ Follow these steps to set up and run the project locally:
 
 3️⃣ Start the development server
     npm run dev
+
+
+
 
 
 
@@ -69,7 +82,9 @@ frontend/
 
 **Dashboard**  
 ![Dashboard Screenshot](./screenshots/dashboard1.png) 
-                       (./screenshots/dashboard2.png) 
+[Dashboard Screenshot](./screenshots/dashboard2.png)
+
+
 
 
 
