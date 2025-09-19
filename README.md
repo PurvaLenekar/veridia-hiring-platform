@@ -81,8 +81,8 @@ frontend/
 ![Register Screenshot](./screenshots/register.png)  
 
 **Dashboard**  
-![Dashboard Screenshot](./screenshots/dashboard1.png) 
-[Dashboard Screenshot](./screenshots/dashboard2.png)
+![Dashboard Screenshot1](./screenshots/dashboard1.png) 
+![Dashboard Screenshot2](./screenshots/dashboard2.png)
 
 
 
